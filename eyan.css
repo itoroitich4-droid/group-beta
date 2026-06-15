@@ -138,5 +138,9 @@ footer {
     padding: 30px;
 }
 #about{
-background-color: rgb(71, 57, 151);
+background-color: rgb(147, 146, 147);
+background-image: url("images/div.jpeg");
+border-radius: 2%;
+
+
 }
