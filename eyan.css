@@ -138,6 +138,7 @@ footer {
     padding: 30px;
 }
 <<<<<<< HEAD
+<<<<<<< HEAD
 #about{
 background-color: rgb(147, 146, 147);
 background-image: url("images/div.jpeg");
@@ -147,3 +148,8 @@ border-radius: 2%;
 }
 =======
 >>>>>>> 794a53789bc14dd97162b297a02c0ddecd897cd0
+=======
+#about {
+font-size: x-large;
+}
+>>>>>>> ccb993ec0be4c1e5e9665d6e39664061d6ab9c9c
